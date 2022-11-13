@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+untuk menampilkan teks yang akan kita masukan pada aplikasi android.
+-->
+<resources>
+    <string name="app_name">Bakpia Pathok</string>
+    <string name="order_cupcakes">Order Bakpia Pathok</string>
+    <string name="one_cupcake">Bakpia Pathok 25 pcs</string>
+    <string name="six_cupcakes">Bakpia Pathok 50 pcs</string>
+    <string name="twelve_cupcakes">Bakpia Pathok 100 pcs</string>
+    <string name="choose_flavor">Pilih Rasa</string>
+    <string name="vanilla">Chocolate</string>
+    <string name="chocolate">Strawberry</string>
+    <string name="red_velvet">Pineapple</string>
+    <string name="salted_caramel">Blueberry</string>
+    <string name="coffee">Mix</string>
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+    <string name="choose_pickup_date">Pilih Tanggal Pengambilan</string>
+    <string name="order_summary">Ringkasan Pesanan</string>
+    <string name="send">Kirim Pesanan Ke Aplikasi</string>
+    <string name="quantity">Jumlah Produk</string>
+    <string name="flavor">Rasa</string>
+    <string name="pickup_date">Tanggal Pengambilan</string>
+    <string name="subtotal_price">Subtotal %s</string>
+    <string name="total_price">Total %s</string>
+    <string name="new_cupcake_order">New Cupcake Order</string>
+    <string name="order_details">Quantity: %1$s cupcakes \n Flavor: %2$s \nPickup date: %3$s \n
+        Total: %4$s \n\n Thank you!</string>
+</resources>
